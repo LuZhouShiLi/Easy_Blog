@@ -1,0 +1,23 @@
+{
+  "id": "3729767",
+  "name": "easyblog",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "355504",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "5319273",
+      "name": "icons_accout",
+      "font_class": "icons_accout",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
